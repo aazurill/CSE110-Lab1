@@ -14,6 +14,7 @@ git clone https://github.com/aazurill/CSE110-Lab1.git
 
 This site was built using [GitHub Pages](https://pages.github.com/). 
 If you want my own personal github, the [link is right here](https://github.com/aazurill).
+
 [Current state of the readme](./README.md)
 ## Hobbies
 Some of my current hobbies include:
