@@ -3,7 +3,7 @@
 Welcome! My name is Ethan Tan and I am a second year computer science student at UCSD. I look forward to seeing what I learn about software engineering in this iteration of CSE 110 from Professor Powell. As Steve Jobs once said:
 > Learn continually - there's always "one more thing" to learn!
 
-![myImage](https://media3.giphy.com/media/VbnUQpnihPSIgIXuZv/giphy.gif?cid=ecf05e479774dgmu8ppoyxsnil6h5fcwp7hklpcw2wci9jq3&rid=giphy.gif)
+![myImage](https://i.giphy.com/media/VbnUQpnihPSIgIXuZv/giphy.webp)
 
 *Me right now as I complete CSE 110 Lab 1*
 
