@@ -3,7 +3,8 @@
 Welcome! My name is Ethan Tan and I am a second year computer science student at UCSD. I look forward to seeing what I learn about software engineering in this iteration of CSE 110 from Professor Powell. As Steve Jobs once said:
 > Learn continually - there's always "one more thing" to learn!
 
-![myImage](https://media.giphy.com/media/XRB1uf2F9bGOA/giphy.gif)
+![myImage](https://media.giphy.com/media/VbnUQpnihPSIgIXuZv/giphy.gif)
+
 *Me right now as I complete CSE 110 Lab 1*
 
 In order to copy this repository into your local computer, input the following command into your terminal if you have git installed:
