@@ -28,3 +28,8 @@ Some things I want to do this year is:
 - [x] Eat tacos
 - [ ] Finally play badminton with friends
 - [ ] Graduate from UCSD
+
+## My Favorite Boba places
+1. Omomo
+2. The Alley
+3. Anything I guess. 
